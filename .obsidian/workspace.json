@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fandemental/Day 2.md",
+                "file": "Fandemental/Day 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 2"
+              "title": "Day 3"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "lastOpenFiles": [
     "Fandemental/Day 1.md",
     "Fandemental/Day 2.md",
+    "Fandemental/Day 3.md",
     "Fandemental"
   ]
 }
