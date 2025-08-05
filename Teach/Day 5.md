@@ -9,6 +9,7 @@ Tags
 <p> => تگ پاراگراف
 <a> => تگ لینک
 <button> => تگ دکمه
+<image> => برای اضافه کردن عکس 
 <br> تگ شکستن خط برای رفتن به خط بعدی
 <label> => تگ گذاشتن لیبل برای input
 <input> => …تگ برای گرفتن مشخصات مثله ایمیل, سن و  
@@ -68,3 +69,6 @@ color: 'green'
 external css =>
 create another file for example =>
 style.css
+
+CSS style =>
+backgroundColor, color, font-size, border: 2px solid red, padding, margin, border-radius
