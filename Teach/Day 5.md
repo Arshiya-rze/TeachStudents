@@ -47,3 +47,24 @@ Example Html tags =>
     <br>
     <a href="https://google.com">Boro be google</a>
 </section>
+
+CSS => 
+inline css =>
+<h1 style="background-color: red; color: white;">Hello</h1>
+<h2 style="background-color: aqua; font-style: italic;">Im parsa</h2>
+
+internal css => 
+create style in header
+
+style {
+h1 {
+color: 'red';
+}
+h2 {
+color: 'green'
+}
+}
+
+external css =>
+create another file for example =>
+style.css
