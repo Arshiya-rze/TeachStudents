@@ -19,3 +19,31 @@ Tags
 W3schools
 https://www.w3schools.com/TAGS/default.asp
 
+
+Example Html tags =>
+
+<h1>Hello</h1>
+<h2>Im arshiya</h2>
+<p>How old are you?</p>
+
+<section> 
+    <div>
+        <label>Email</label>
+        <input type="text">
+        
+        <label>Password</label>
+        <input type="password">
+    </div>
+    
+    <div>
+        <label>Age</label>
+        <input type="number">
+
+        <label>Aya zende hasti?</label>
+        <input type="checkbox">
+    </div>
+
+    <button>Register</button>
+    <br>
+    <a href="https://google.com">Boro be google</a>
+</section>
