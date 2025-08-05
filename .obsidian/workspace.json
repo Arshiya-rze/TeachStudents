@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags HTML & Css.md",
+                "file": "Teach/Day 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tags HTML & Css"
+              "title": "Day 5"
             }
           }
         ],
@@ -183,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80ea8d82ee9cecdb",
+  "active": "3e2a08994a3c95ae",
   "lastOpenFiles": [
-    "Teach/Day 4.md",
+    "Untitled.md",
+    "Teach/Day 5.md",
     "Tags HTML & Css.md",
+    "Teach/Day 4.md",
     "Teach/Day 3.md",
     "Teach/Day 1.md",
     "Teach/Day 2.md",
