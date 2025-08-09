@@ -95,6 +95,31 @@ external css =>
 create another file for example =>
 style.css
 
+BackgroundColor =>
+چی هست؟ 
+رنگ پس‌زمینه یک المان رو تعیین می‌کنه.
+Color=>
+چی هست؟
+رنگ نوشته‌ها (فونت‌ها) رو مشخص می‌کنه.
+FontSize =>
+چی هست؟ 
+اندازه نوشته رو تعیین می‌کنه
+Border =>
+چی هست؟
+خط دور یک المان رو مشخص می‌کنه (ضخامت، نوع، رنگ).
+Padding =>
+ چی هست؟
+فاصله بین محتوا و خط دور (border) رو تعیین می‌کنه.
+Margin =>
+چی هست؟
+فاصله بین خود المان و دیگر المان‌ها رو تعیین می‌کنه.
+
+
+BorderRadius =>
+ چی هست؟
+گوشه‌های المان رو گرد می‌کنه.
+
+
 CSS style =>
 backgroundColor, color, font-size, border: 2px solid red, padding, margin, border-radius
 
