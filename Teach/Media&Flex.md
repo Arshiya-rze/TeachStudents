@@ -23,4 +23,38 @@ min-width: 768px → وقتی عرض از ۷۶۸px به بالا بود.
   <div class="box">3</div>
 </div>
 مثال در css
+.container {
+  display: flex;
+  border: 2px solid black;
+}
 
+.box {
+  width: 50px;
+  height: 50px;
+  background: lightblue;
+  margin: 5px;
+}
+
+
+مهم‌ترین ویژگی‌ها (خیلی ساده)
+
+justify-content:
+جهت افقی (چپ، راست، وسط)
+
+align-items: 
+جهت عمودی (بالا، وسط، پایین)
+
+flex-direction:
+تعیین می‌کنه بچه‌ها در ردیف (row) باشن یا ستون (column)
+
+gap:
+فاصله بین بچه‌ها
+
+مثال در css:
+.container {
+  display: flex;
+  justify-content: center;   /* وسط افقی */
+  align-items: center;       /* وسط عمودی */
+  flex-direction: column;    /* بچه‌ها زیر هم */
+  gap: 10px;                 /* فاصله */
+}
