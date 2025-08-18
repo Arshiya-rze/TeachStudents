@@ -65,3 +65,31 @@ gap:
 - `display: inline;` → کنار هم میاد ولی نمی‌تونی طول/عرض دقیق بدی (مثل `<span>`).
 - `display: inline-block;` → مثل inline کنار هم میاد ولی می‌تونی طول/عرض هم بدی.
 - `display: flex;` → قوی‌ترین حالت، کنترل کامل روی ردیف/ستون و چیدمان.
+
+
+درس آخر برای اینکه بچه ها گیج نشن:
+html
+<body>
+<h1>Flex</h1>
+<div class="container">
+<p style="background-color: blue;">aynaz</p>
+<p style="background-color: yellow;">amir</p>
+<p style="background-color: green;">fatemeh</p>
+</div>
+</body>
+
+css
+.container {
+height: 300px;
+background-color: red;
+display: flex;
+justify-content: left;
+align-items: center;
+gap: 10px;
+}
+
+p {
+height: 30px;
+width: 60px;
+color: white;
+}
