@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Day 4.md",
+                "file": "Teach/Byte&Bit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 4"
+              "title": "Byte&Bit"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Day 4.md",
+                "file": "Teach/Byte&Bit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 4"
+              "title": "Backlinks for Byte&Bit"
             }
           },
           {
@@ -186,6 +186,7 @@
   "active": "952820a3c70fedcb",
   "lastOpenFiles": [
     "Teach/Pixel.md",
+    "Teach/Byte&Bit.md",
     "Teach/Day 4.md",
     "PXPhoto.png",
     "Tags HTML & Css.md",
