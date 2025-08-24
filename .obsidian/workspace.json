@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Byte&Bit.md",
+                "file": "Teach/Day 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Byte&Bit"
+              "title": "Day 4"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Byte&Bit.md",
+                "file": "Teach/Day 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Byte&Bit"
+              "title": "Backlinks for Day 4"
             }
           },
           {
@@ -185,19 +185,19 @@
   },
   "active": "952820a3c70fedcb",
   "lastOpenFiles": [
-    "Teach/Pixel.md",
-    "Teach/Byte&Bit.md",
-    "Teach/Day 4.md",
-    "PXPhoto.png",
     "Tags HTML & Css.md",
+    "Teach/Day 4.md",
+    "Teach/Day 3.md",
+    "Teach/Day 2.md",
+    "Teach/Day 1.md",
+    "Teach/Byte&Bit.md",
+    "Teach/Pixel.md",
+    "PXPhoto.png",
     "NodeJs.png",
     "Teach/NodeJs Example.md",
     "Teach/NodeJs.md",
     "Teach/Media&Flex.md",
     "Teach/Day 5.md",
-    "Teach/Day 3.md",
-    "Teach/Day 2.md",
-    "Teach/Day 1.md",
     "Untitled.md",
     "Untitled.canvas",
     "Teach"
