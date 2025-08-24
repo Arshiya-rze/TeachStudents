@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Day 1.md",
+                "file": "Teach/Day 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1"
+              "title": "Day 4"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Day 1.md",
+                "file": "Teach/Day 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 1"
+              "title": "Backlinks for Day 4"
             }
           },
           {
@@ -185,19 +185,20 @@
   },
   "active": "952820a3c70fedcb",
   "lastOpenFiles": [
-    "Teach/Media&Flex.md",
-    "NodeJs.png",
-    "PXPhoto.png",
-    "Untitled.md",
-    "Teach/NodeJs.md",
-    "Teach/NodeJs Example.md",
+    "Teach/Pixel.md",
     "Teach/Day 4.md",
+    "PXPhoto.png",
     "Tags HTML & Css.md",
+    "NodeJs.png",
+    "Teach/NodeJs Example.md",
+    "Teach/NodeJs.md",
+    "Teach/Media&Flex.md",
     "Teach/Day 5.md",
-    "Untitled.canvas",
     "Teach/Day 3.md",
-    "Teach/Day 1.md",
     "Teach/Day 2.md",
+    "Teach/Day 1.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "Teach"
   ]
 }

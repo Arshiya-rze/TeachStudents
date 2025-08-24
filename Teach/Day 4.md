@@ -12,7 +12,7 @@ HTML مخفف Hyper Text Markup Language است. 
 یعنی: زبان نشانه‌گذاری ابرمتن 
 H = Hyper
 T = Text
-M = Makup
+M = Markup
 L = Language
   
 🔤 به زبان ساده: 
