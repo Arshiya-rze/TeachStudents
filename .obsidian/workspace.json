@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Css&Scss.md",
+                "file": "Teach/Media&Flex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Css&Scss"
+              "title": "Media&Flex"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Css&Scss.md",
+                "file": "Teach/Media&Flex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Css&Scss"
+              "title": "Backlinks for Media&Flex"
             }
           },
           {
@@ -186,8 +186,8 @@
   },
   "active": "952820a3c70fedcb",
   "lastOpenFiles": [
-    "Teach/Byte&Bit.md",
     "Teach/Css&Scss.md",
+    "Teach/Byte&Bit.md",
     "Teach/Day 4.md",
     "Teach/Day 3.md",
     "Teach/Day 2.md",
