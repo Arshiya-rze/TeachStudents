@@ -1,8 +1,8 @@
-در PowerShell این دستورات رو وارد کنید :
+در PowerShell/CMD/ Terminal VsCode این دستورات رو وارد کنید :
 1. node -v
 2. npm -v
 3. ng version
-در صورتی که nvm نصب نیست :
+در صورتی که nvm نصب نیست
 4. nvm install 20
 5. nvm use 20
 6. node -v
