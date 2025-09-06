@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Media&Flex.md",
+                "file": "Teach/Angular CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Media&Flex"
+              "title": "Angular CLI"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "ba78ac1555f3eba8",
   "lastOpenFiles": [
-    "Teach/Css&Scss.md",
     "Teach/Media&Flex.md",
+    "Teach/Angular CLI.md",
+    "Teach/Css&Scss.md",
     "Teach/Byte&Bit.md",
     "Teach/Day 3.md",
     "Teach/Day 5.md",
