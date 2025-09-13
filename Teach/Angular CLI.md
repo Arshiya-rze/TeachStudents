@@ -10,5 +10,6 @@
 7. npm uninstall -g @angular/cli
 پاک سازی کش سیستم
 8. npm cache verify
+
 9. npm i -g @angular/cli@19
 10. ng version
